@@ -46,6 +46,7 @@ Thanks: Black Alex, Vasiliy Nasonov, virus, Vladimir, ZT
       <String Target="重新载入" Link="Перезагрузить"/>
 		  <String Target="格式转换" Link="Преобразование форматов"/>
 			  <String Target="ESD解密" Link="Расшифровка ESD"/>
+	        <String Target="取消任务	Ctrl+Break" Link="Отменить задачу	Ctrl+Break"/>
 	
 	  <String Target="恢复功能(&amp;R)" Link="Восстановление(&amp;R)"/>
 		  <String Target="系统修复" Link="Восстановление системы"/>
